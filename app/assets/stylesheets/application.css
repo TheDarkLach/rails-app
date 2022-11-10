@@ -13,5 +13,9 @@
  *= require_tree .
  *= require_self
  */
-
- 
+ video.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
